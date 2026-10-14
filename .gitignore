@@ -1,0 +1,9 @@
+# 虚拟环境(可用 requirements.txt 重建)
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
